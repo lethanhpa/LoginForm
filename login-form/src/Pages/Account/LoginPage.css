@@ -1,0 +1,27 @@
+.login_background {
+    background-image: url('../../Assets/image/backgroundLogin.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login_form_container {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.forgot_password {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+.btn_submit {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
